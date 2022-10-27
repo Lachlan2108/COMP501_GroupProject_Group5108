@@ -18,14 +18,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #111;
-}
-
-.active {
-  background-color: #800080;
-}
-
 <<<<<<< HEAD
 li {
   border-right: 1px solid #bbb;
@@ -49,7 +41,5 @@ li {
 body{
     margin: 2% 3%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: lightcyan;
+    background-color: #CBC3E3;
 }
-
->>>>>>> dcb9862570f09629016ea498b5009ceca736833c
