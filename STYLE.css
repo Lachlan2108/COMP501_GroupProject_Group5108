@@ -64,7 +64,7 @@ margin-right: 3%;
   color: black;
 }
 
-.topnav .active {
-  background-color: #5e5e5e;
+.topnav a.active {
+  background-color: #862ba1;
   color: white;
 }
